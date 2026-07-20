@@ -5,7 +5,7 @@
 //@version 6.0.0
 //@allowed-ipc hayaku_locator_continuity
 //@allowed-ipc flashback_memory
-//@update-url https://raw.githubusercontent.com/rusinus12-droid/libra/main/dist/LIBRA.js
+//@update-url https://raw.githubusercontent.com/rusinus12-droid/LIBRA-World-Manager/main/LIBRA.js
 //@arg max_limit int Maximum memory entries
 //@arg threshold string Memory importance threshold
 //@arg sim_threshold string Similarity threshold percentage
